@@ -1,2 +1,2 @@
 # hello-world
-First repository
+First repository of myself at Github, trying to get a better understanding of what people around me are talking about...
